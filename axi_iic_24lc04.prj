@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="axi_iic_24lc04" location="D:/Code/01_ax7020_vhdl/54_iic/axi_iic/vitis_freeRTOS/axi_iic_24lc04" platform="D:/Code/01_ax7020_vhdl/54_iic/axi_iic/vitis_freeRTOS/axi_iic_wrapper/export/axi_iic_wrapper/axi_iic_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="axi_iic_24lc04_system" sysConfig="axi_iic_wrapper" runtime="cpp" cpu="freertos10_xilinx_domain" cpuInstance="ps7_cortexa9_0" os="freertos10_xilinx" mssSignature="fd481b1d5e191b4f69d9324b6821be21">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1791827222">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.378234055" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
